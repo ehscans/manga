@@ -1,0 +1,25 @@
+{
+  "title": "Golden Kamuy",
+  "description": "Boner inducing manga",
+  "artist": "Noda Satoru",
+  "author": "Noda Satoru",
+  "cover": "https://i.imgur.com/rkmxjbU.jpg",
+  "chapters": {
+    "273": {
+      "title": "The Tsurumi Theater",
+      "volume": "42069",
+      "groups": {
+        "#EHScans": "/proxy/api/imgur/chapter/cLoL8iQ/"
+      },
+      "last_updated": "1616828400"
+    },
+    "274": {
+      "title": "Obsession",
+      "volume": "42069",
+      "groups": {
+        "#EHScans": "/proxy/api/imgur/chapter/3L8j6SQ/"
+      },
+      "last_updated": "1618038000"
+    }
+  }
+}
