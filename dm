@@ -5,7 +5,7 @@
   "author": "Kui Ryoko",
   "cover": "https://i.imgur.com/Dfh9QaD.gif",
   "chapters": {
-    "Bible 1.5": {
+    "1.5": {
       "title": "Izutsumi",
       "volume": "1",
       "groups": {
