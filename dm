@@ -13,6 +13,14 @@
 			},
 			"last_updated": "1616569200"
 		},
+		"6": {
+			"title": "Falin",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/5C9z2x8/"
+			},
+			"last_updated": "1618902000"
+		},
 		"73": {
 			"title": "Bavarois",
 			"volume": "42069",
