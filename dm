@@ -21,6 +21,46 @@
 			},
 			"last_updated": "1618902000"
 		},
+		"7": {
+			"title": "Shuro",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/7MfAekO/"
+			},
+			"last_updated": "1619852400"
+		},
+		"8": {
+			"title": "Maizuru",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/mUdx0En/"
+			},
+			"last_updated": "1619852400"
+		},
+		"9": {
+			"title": "Hien",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/J27guZm/"
+			},
+			"last_updated": "1619852400"
+		},
+		"10": {
+			"title": "Benichidori",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/OgtrMAi/"
+			},
+			"last_updated": "1619852400"
+		},
+		"11": {
+			"title": "Inutade",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/NzU993h/"
+			},
+			"last_updated": "1619852400"
+		},
 		"73": {
 			"title": "Bavarois",
 			"volume": "42069",
