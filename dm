@@ -73,7 +73,7 @@
 			"title": "Mr. & Mrs. Floke",
 			"volume": "1",
 			"groups": {
-				"#EHScans": "/proxy/api/imgur/chapter/OgtrMAi/"
+				"#EHScans": "/proxy/api/imgur/chapter/9s3BOvw/"
 			},
 			"last_updated": "1620370800"
 		},
