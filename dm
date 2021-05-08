@@ -61,6 +61,30 @@
 			},
 			"last_updated": "1619852400"
 		},
+		"12": {
+			"title": "Namari",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/ySBrtsH/"
+			},
+			"last_updated": "1620370800"
+		},
+		"13": {
+			"title": "Mr. & Mrs. Floke",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/OgtrMAi/"
+			},
+			"last_updated": "1620370800"
+		},
+		"14": {
+			"title": "Kaka & Kiki",
+			"volume": "1",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/MYz5ZMY/"
+			},
+			"last_updated": "1620370800"
+		},
 		"73": {
 			"title": "Bavarois",
 			"volume": "42069",
