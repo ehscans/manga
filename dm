@@ -93,5 +93,13 @@
 			},
 			"last_updated": "1618470000"
 		}
+		"74": {
+			"title": "Lyrikmumare",
+			"volume": "42069",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/HHgVMwJ/"
+			},
+			"last_updated": "1620975600"
+		}
 	}
 }
