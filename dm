@@ -92,7 +92,7 @@
 				"#EHScans": "/proxy/api/imgur/chapter/qx0DNoS/"
 			},
 			"last_updated": "1618470000"
-		}
+		},
 		"74": {
 			"title": "Lyrikmumare",
 			"volume": "42069",
