@@ -100,6 +100,14 @@
 				"#EHScans": "/proxy/api/imgur/chapter/HHgVMwJ/"
 			},
 			"last_updated": "1620975600"
+		},
+		"75": {
+			"title": "Lord of the Dungeon",
+			"volume": "42069",
+			"groups": {
+				"#EHScans": "/proxy/api/imgur/chapter/l8Gq5Yw/"
+			},
+			"last_updated": "1623740400"
 		}
 	}
 }
